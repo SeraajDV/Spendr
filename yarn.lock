@@ -2789,9 +2789,9 @@ caniuse-api@^3.0.0:
     lodash.uniq "^4.5.0"
 
 caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000981, caniuse-lite@^1.0.30001020, caniuse-lite@^1.0.30001035:
-  version "1.0.30001035"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001035.tgz#2bb53b8aa4716b2ed08e088d4dc816a5fe089a1e"
-  integrity sha512-C1ZxgkuA4/bUEdMbU5WrGY4+UhMFFiXrgNAfxiMIqWgFTWfv/xsZCS2xEHT2LMq7xAZfuAnu6mcqyDl0ZR6wLQ==
+  version "1.0.30001137"
+  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001137.tgz"
+  integrity sha512-54xKQZTqZrKVHmVz0+UvdZR6kQc7pJDgfhsMYDG19ID1BWoNnDMFm5Q3uSBSU401pBvKYMsHAt9qhEDcxmk8aw==
 
 capture-exit@^2.0.0:
   version "2.0.0"
@@ -6547,6 +6547,18 @@ loose-envify@^1.0.0, loose-envify@^1.1.0, loose-envify@^1.4.0:
   integrity sha512-lyuxPGr/Wfhrlem2CL/UcnUc1zcqKAImBDzukY7Y5F/yQiNdko6+fRLevlw1HgMySw7f611UIY408EtxRSoK3Q==
   dependencies:
     js-tokens "^3.0.0 || ^4.0.0"
+
+lottie-react@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/lottie-react/-/lottie-react-2.1.0.tgz#24d20ea41dc10791b1253f408dcb6f3e995780be"
+  integrity sha512-sHDJb5aeh1letUIWqwidHoHZj07ZOZQoLuUgy0gqt9FB/XiCtAZ2+421Cn+ZkHR7anVvWljKhGgctQCtgFloUA==
+  dependencies:
+    lottie-web "^5.7.3"
+
+lottie-web@^5.7.3:
+  version "5.7.3"
+  resolved "https://registry.yarnpkg.com/lottie-web/-/lottie-web-5.7.3.tgz#dbe542270665be5dd5b32deae19e27de6e77728c"
+  integrity sha512-ftN4AdiNmtoVpCfN1doiUIUbhOrDSMikH1Yl64/xO5lzQ31AO0+G82bqrCNHIW5Ec2zE/g7y4iz7zBR1YJwDaA==
 
 lower-case@^2.0.1:
   version "2.0.1"
@@ -10315,6 +10327,11 @@ uuid@^3.3.2, uuid@^3.4.0:
   version "3.4.0"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.4.0.tgz#b23e4358afa8a202fe7a100af1f5f883f02007ee"
   integrity sha512-HjSDRw6gZE5JMggctHBcjVak08+KEVhSIiDzFnT9S9aegmp85S/bReBVTb4QTFaRNptJ9kuYaNhnbNEOkbKb/A==
+
+uuid@^8.3.0:
+  version "8.3.0"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-8.3.0.tgz#ab738085ca22dc9a8c92725e459b1d507df5d6ea"
+  integrity sha512-fX6Z5o4m6XsXBdli9g7DtWgAx+osMsRRZFKma1mIUsLCz6vRvv+pz5VNbyu9UEDzpMWulZfvpgb/cmDXVulYFQ==
 
 v8-compile-cache@^2.0.3:
   version "2.1.0"
