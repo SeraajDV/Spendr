@@ -14,9 +14,9 @@ const App = () => {
         <div className="app-wrapper">
           <Header />
           <Balance />
+          <AddTransaction />
           <IncomeList />
           <ExpenseList />
-          <AddTransaction />
         </div>
       </div>
     </GlobalContextProvider>
